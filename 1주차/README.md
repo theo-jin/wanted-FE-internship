@@ -18,6 +18,10 @@
 
 3-3. SasS(Software as a Service)
 
+4. AWS란?
+AWS(Amazon Web Service)는 클라우드 컴퓨팅 서비스를 제공하는 프로바이더 중 하나로서, 현재 전 세계에서 가장 많이 사용되고 있는 클라우드 컴퓨팅 서비스
+
+5. AWS S3
 quiz
 오류 정리
 401
@@ -36,4 +40,7 @@ CI/CD는 Continuous Integration(CI)와 Continuous Delivery/Deployment(CD)를 통
 #### 4. CI/CD가 각광받는 이유
 
 ### GitHub Actions
+2. CI/CD로 구축할 목표
+
+프론트엔드가 배포까지 알아야 할까요?
 
