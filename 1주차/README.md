@@ -24,9 +24,13 @@
 3-3. SasS(Software as a Service)
 
 4. AWS란?
-AWS(Amazon Web Service)는 클라우드 컴퓨팅 서비스를 제공하는 프로바이더 중 하나로서, 현재 전 세계에서 가장 많이 사용되고 있는 클라우드 컴퓨팅 서비스
+AWS(Amazon Web Service)는 클라우드 컴퓨팅 서비스를 제공하는 프로바이더 중 하나, 현재 전 세계에서 가장 많이 사용되고 있는 클라우드 컴퓨팅 서비스
 
 5. AWS S3
+AWS의 S3서비스는 Simple Storage Service의 약자
+
+Create React App을 이용해서 만든 리액트 프로젝트의 경우 build 명령어를 실행하면 정적인 build 파일들이 생성되고 이를 브라우저에서 접근해서 실행하면 Client Side Rendering을 통해서 동작하는 특징을 이용해서 S3서비스를 통해서 배포 가능
+
 quiz
 오류 정리
 401
