@@ -30,6 +30,8 @@ useEffect의 의존성 배열 올바르게 다루기
 Context API로 컴포넌트에 맥락 전달하기
 [케이스 스터디] 기업 과제 가이드 및 수행 결과 피드백
 [아하!모먼트] 최적화를 해야하는 시기는 언제일까?
+
+
 Week 2-2. Clean Code와 소프트웨어를 유연하고 확장성있게 만드는 법
 Clena Code / SRP / DIP / 횡단 관심사 / Custom Hook / Context API
 
